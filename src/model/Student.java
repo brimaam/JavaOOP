@@ -20,7 +20,6 @@ public class Student {
     }
 
     //getters and setters
-
     public String getName() {
         return name;
     }
